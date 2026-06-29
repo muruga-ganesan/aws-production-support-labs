@@ -1,12 +1,12 @@
 # AWS Production Support Labs
 
-## 📌 Overview
+## Overview
 
 This repository contains my AWS hands-on labs focused on cloud infrastructure used in Production Support and Site Reliability Engineering.
 
 ---
 
-## 🚀 Topics Covered
+## Topics Covered
 
 - EC2
 - IAM
@@ -21,7 +21,7 @@ This repository contains my AWS hands-on labs focused on cloud infrastructure us
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 EC2/
@@ -35,7 +35,7 @@ Security/
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - AWS
 - Linux
@@ -44,12 +44,12 @@ Security/
 
 ---
 
-## 🎯 Goal
+## Goal
 
 Build cloud infrastructure knowledge for Production Support, DevOps and SRE roles.
 
 ---
 
-## 📌 Status
+## Status
 
-🚧 Work in Progress
+---- Work in Progress ----
